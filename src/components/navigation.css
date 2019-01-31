@@ -1,0 +1,17 @@
+.navigation_bar > ul > li {
+  text-decoration: none;
+  list-style: none;
+  display: inline;
+  margin: 2%;
+  
+}
+.navigation_bar > ul{
+    overflow:hidden;
+}
+.link {
+  text-decoration: none;
+  color: rgb(104, 100, 100);
+ /*  border: 2px solid black;
+  border-radius: 6px;
+  font-size: 1em; */
+}
